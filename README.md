@@ -5,4 +5,4 @@ Requirements are:
 
 * Python - verified with 2.7.13
 * numpy - verified with 1.14.3
-* jupyter - verified with version 1.0.0
+* jupyter - verified with 1.0.0
